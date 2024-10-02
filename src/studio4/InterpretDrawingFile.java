@@ -41,7 +41,7 @@ public class InterpretDrawingFile {
 			else {
 				StdDraw.rectangle(x,y,halfwidth,halfheight);
 			}
-		}
+		}StdDraw.filledCircle(0.62,0.54,0.025);
 			
 		
 	} 
